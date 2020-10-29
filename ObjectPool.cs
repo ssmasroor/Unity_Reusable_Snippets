@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// lightweight/simple ObjectPool for single usability
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
